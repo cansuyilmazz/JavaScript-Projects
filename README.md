@@ -1,6 +1,6 @@
 # JavaScript-Projects
 
-All The HTML/CSS/SASS Project Repositories
+All The JavaScript Project Repositories
 
 |  #  | Project                                                                                 | Live Demo                                                           |
 | :-: | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
